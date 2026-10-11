@@ -1,30 +1,28 @@
-### Hi, I'm Noor Siddiqui 👋
+# Noor Siddiqui
 
-**Business Mentor in Dubai** with 16 years in international trade, business compliance and, now, AI.
+**Dubai · B2B trade × AI automation**
 
-I'm not a traditional developer. I design and direct AI systems that solve real business problems: I define the problem, break it into tasks, have AI coding agents build it, and test every result myself. I share what I learn as I build.
+I build self-hosted, human-in-the-loop AI systems for B2B trade: lead intake, CRM, compliance screening and deal workflows. They run on my own servers, and a person approves every message that leaves.
 
-#### What I build
-- **Agentic AI systems:** multiple AI agents working together on real business tasks
-- **Sovereign AI for the UAE & GCC:** private AI that keeps data in the country
-- **Trade-tech:** B2B fertilizer trade platforms, lead intake and CRM automation
-- **AI content & marketing automation**
+### Background
+- 13 years in B2B digital strategy and trade compliance (Aramco India, New Delhi)
+- Director, Agro National Chemical Fertilizer Trading Co. LLC, Dubai (agri-fertilizer trade)
+- Founder, IZN AI — consent-based AI mediation and digital identity
 
-#### Featured projects (case studies)
-| Project | What it does |
-|---|---|
-| **IZN AI** | Private AI platform for the UAE & GCC with 17 specialised agents · [al-izn.com](https://al-izn.com) |
-| **Agro National Trade Platform** | B2B fertilizer trade platform with AI agents and automated lead intake · [agronational.ae](https://agronational.ae) |
-| **AI CMO** | Multi-agent social media system: research, writing, design, scheduling |
-| **AIRA** | WordPress plugin: AI pipeline from content to revenue |
+### What I build
+- **Trade CRM:** one intake for email, web forms and WhatsApp; lead dedupe; SLA tracking; an approval queue; compliance flags
+- **Agent workflows** with human-in-the-loop approvals, on local LLMs (Ollama)
+- **Self-hosted infrastructure:** blue-green deploys with review gates, encrypted backups with restore tests, read-only audits
+- **Trade documents:** quotations and LOI/ICPO drafts with QR verification
 
-_Detailed case studies are being added to the pinned repositories._
+### Case study (private code, no client data)
+**B2B agri-trade CRM** — about 1,000 leads unified from email, web forms and WhatsApp. Replies are drafted by AI and approved by the owner. Releases ship through staging, automated review and a blue-green switch.
 
-#### Books
-[Amazon author page](https://www.amazon.com/author/noorsiddiqui)
+### Stack
+Node.js · Express · MongoDB · Redis · Python · FastAPI · Ollama · Nginx · systemd · Docker · Playwright
 
-#### Follow the build log
-[LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui) · [X](https://x.com/N_Siddiqui555) · [YouTube](https://www.youtube.com/@NoorSiddiquiDubai) · [Facebook](https://www.facebook.com/nooruddin.siddiqui)
+### Open-source (coming soon)
+IMAP-safe ingest · blue-green promote kit · read-only server audit · B2B lead dedupe
 
-#### Work with me
-AI automation projects for SMEs and traders: message me on [LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui).
+### Work with me
+Available for freelance projects: AI automation, CRM and agent workflows for trading and B2B companies.
