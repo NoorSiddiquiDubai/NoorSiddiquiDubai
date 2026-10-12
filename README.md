@@ -21,6 +21,17 @@ I don't write most of my code by hand; AI agents do. My job is to define the tas
 ### Case study (private code, no client data)
 **B2B agri-trade CRM** — about 1,000 leads unified from email, web forms and WhatsApp. Replies are drafted by AI and approved by the owner. Releases ship through staging, automated review and a blue-green switch.
 
+### Live products and sites I've built and run
+| Site | What it is |
+|---|---|
+| [al-izn.com](https://al-izn.com) | **IZN AI** — private AI search, verified professional directory and AI-assisted mediation for the UAE and GCC. Web app and Android app, on my own servers with local LLMs. |
+| [agronational.ae](https://agronational.ae) | Agro National — B2B fertilizer and agri-chemical trading, Middle East and Africa |
+| [etaxdial.com](https://etaxdial.com) | eTaxDial — business registration, tax and legal compliance guides for India, UAE and the US |
+| [roshantax.com](https://roshantax.com) | Legal, tax and compliance services platform for Indian companies |
+| [aramcoindia.com](https://aramcoindia.com) | Aramco India — commodity sourcing and business services, New Delhi |
+| [tripvizer.com](https://tripvizer.com) | Travel and tour-package booking site (Nepal, Sri Lanka, Bhutan, Maldives) |
+| [vsjksb.world](https://vsjksb.world) | Website for an FCRA-registered NGO in Bhopal: schools, skills and welfare programmes, donations |
+
 ### Stack
 Node.js · Express · MongoDB · Redis · Python · FastAPI · Ollama · Nginx · systemd · Docker · Playwright
 
