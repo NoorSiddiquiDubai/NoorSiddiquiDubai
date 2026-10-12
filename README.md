@@ -2,6 +2,8 @@
 
 **Dubai · B2B trade × AI automation**
 
+[IZN AI](https://github.com/NoorSiddiquiDubai/izn-ai) · [Live projects](https://github.com/NoorSiddiquiDubai/projects) · [How I work with AI agents](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract) · [LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui)
+
 I build self-hosted, human-in-the-loop AI systems for B2B trade: lead intake, CRM, compliance screening and deal workflows. They run on my own servers, and a person approves every message that leaves.
 
 ### Background
@@ -22,6 +24,8 @@ I don't write most of my code by hand; AI agents do. My job is to define the tas
 **B2B agri-trade CRM** — about 1,000 leads unified from email, web forms and WhatsApp. Replies are drafted by AI and approved by the owner. Releases ship through staging, automated review and a blue-green switch.
 
 ### Live products and sites I've built and run
+Screenshots and details for each: **[projects](https://github.com/NoorSiddiquiDubai/projects)**
+
 | Site | What it is |
 |---|---|
 | [al-izn.com](https://al-izn.com) | **IZN AI** — private AI search, verified professional directory and AI-assisted mediation for the UAE and GCC. Web app and Android app, on my own servers with local LLMs. |
