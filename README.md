@@ -1,15 +1,16 @@
 # Noor Siddiqui
 
-**Dubai · B2B trade × AI automation**
+**Dubai, UAE · Sovereign AI & DevOps Architect · B2B Trade & Compliance Automation**
 
-[IZN AI](https://github.com/NoorSiddiquiDubai/izn-ai) · [Live projects](https://github.com/NoorSiddiquiDubai/projects) · [How I work with AI agents](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract) · [LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui)
+[IZN AI](https://github.com/NoorSiddiquiDubai/izn-ai) · [Live projects](https://github.com/NoorSiddiquiDubai/projects) · [How I work with AI agents](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract) · [Contra](https://contra.com/aramco_india_apwx26px) · [LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui) · [X](https://x.com/N_Siddiqui555)
 
 I build self-hosted, human-in-the-loop AI systems for B2B trade: lead intake, CRM, compliance screening and deal workflows. They run on my own servers, and a person approves every message that leaves.
 
-### Background
-- 13 years in B2B digital strategy and trade compliance (Aramco India, New Delhi)
-- Director, Agro National Chemical Fertilizer Trading Co. LLC, Dubai (agri-fertilizer trade)
-- Founder, IZN AI — consent-based AI mediation and digital identity
+### Background (16+ Years in International Trade, Compliance & B2B Automation)
+- **Founder, IZN AI** ([al-izn.com](https://al-izn.com)) — sovereign, consent-based AI mediation, private search & digital identity (2025–Present)
+- **Director, Agro National Chemical Fertilizer Trading Co. LLC** ([agronational.ae](https://agronational.ae)), Dubai — GCC & Africa agri-fertilizer trade & B2B CRM automation (2024–Present)
+- **Founder, eTaxDial** ([etaxdial.com](https://etaxdial.com)) — cross-border tax, legal & corporate compliance platform across UAE, India & US (2023–Present)
+- **13 years in B2B digital strategy and trade compliance** — Aramco India ([aramcoindia.com](https://aramcoindia.com)), New Delhi (2010–2023)
 
 ### What I build
 - **Trade CRM:** one intake for email, web forms and WhatsApp; lead dedupe; SLA tracking; an approval queue; compliance flags
@@ -41,8 +42,3 @@ Node.js · Express · MongoDB · Redis · Python · FastAPI · Ollama · Nginx �
 
 ### Open source
 - [ai-agent-working-contract](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract) — the contract every AI coding agent on my projects follows, plus the reviewer playbook
-
-Next up, extracted from my own production systems: IMAP-safe ingest · blue-green promote kit · read-only server audit · B2B lead dedupe
-
-### Work with me
-Available for freelance projects: AI automation, CRM and agent workflows for trading and B2B companies. Reach me on [LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui).
