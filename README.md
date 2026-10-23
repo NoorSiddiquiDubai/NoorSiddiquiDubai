@@ -48,6 +48,7 @@ I build and run self-hosted, human-in-the-loop AI systems for B2B trade, regulat
 
 ### Technical Stack
 **Infra & DevOps:** Linux (Ubuntu) · Docker · systemd · Nginx · Caddy · GitHub Actions (self-hosted runners) · AWS EC2 · Hetzner bare metal · mdadm RAID · fail2ban · gitleaks · Playwright
+
 **Backend & AI:** Python · FastAPI · Pydantic v2 · Node.js · Express · MongoDB · Redis · Ollama
 
 ### Work With Me
