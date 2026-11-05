@@ -60,8 +60,8 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 
 ### Published Technical Articles
 <!-- BLOG-POST-LIST:START -->
-- **[Deterministic Multimodal Vision Auditing for FDA & UAE Regulatory Compliance](https://medium.com/@N_Siddiqui555/deterministic-multimodal-vision-auditing-for-fda-uae-regulatory-compliance-why-llm-probabilities-c04719dc3739)** — why probabilistic LLM vision fails in statutory labelling, and how hybrid deterministic rule engines remove recall risk.
-- **[Building Sovereign AI Architectures in Dubai](https://medium.com/@N_Siddiqui555/building-sovereign-ai-architectures-in-dubai-why-enterprise-ai-needs-deterministic-governance-d63b8450ec9f)** — moving beyond public API wrappers to self-hosted models, human-in-the-loop gates and verified execution on GCC soil.
+- [Deterministic Multimodal Vision Auditing for FDA &amp; UAE Regulatory Compliance: Why LLM Probabilities…](https://medium.com/@N_Siddiqui555/deterministic-multimodal-vision-auditing-for-fda-uae-regulatory-compliance-why-llm-probabilities-c04719dc3739?source=rss-d70a114bf344------2)
+- [Building Sovereign AI Architectures in Dubai: Why Enterprise AI Needs Deterministic Governance](https://medium.com/@N_Siddiqui555/building-sovereign-ai-architectures-in-dubai-why-enterprise-ai-needs-deterministic-governance-d63b8450ec9f?source=rss-d70a114bf344------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Live Systems
