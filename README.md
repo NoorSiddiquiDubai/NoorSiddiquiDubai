@@ -23,6 +23,14 @@ I build and run self-hosted, human-in-the-loop AI systems for B2B trade, regulat
 - **Zero paid AI APIs** — local models (Ollama) on my own servers
 - **16+ years** across company formation, tax compliance, digital marketing and B2B trade
 
+### R&D Roadmap
+| Phase | Focus | Status |
+|---|---|---|
+| **1 · Foundation** | Multi-channel intake, append-only lead trail, owner-approved outbound, blue/green releases with CI gates | ✅ In production |
+| **2 · Agentic operations** | Draft-only AI employees (intake, follow-up, compliance, reporting) on local models, every action human-approved | 🔄 Building |
+| **3 · Trade engine** | Seller mandates, inventory, buyer–seller matching, Quote & Lock, document desk on letterhead | 🔄 Building |
+| **4 · Enterprise & regional adoption** | White-label Trade OS for other B2B firms; self-hosted AI adoption for SMEs, manufacturing and regional trade ecosystems | 🧭 Vision |
+
 ### Selected Work — Agro National Trade OS (private, in production)
 The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 - **Problem:** inquiries arrived across several mailboxes, web forms and WhatsApp; leads were lost, replies were slow and nothing was auditable.
@@ -99,6 +107,14 @@ flowchart TB
 | [aramcoindia.com](https://aramcoindia.com) | Aramco India — company setup, IT, SEO and digital marketing services |
 | [vsjksb.world](https://vsjksb.world) | Community development, vocational training and welfare initiative portal |
 
+### Technology Radar
+| Ring | What I use or study |
+|---|---|
+| **Adopt** | Self-hosted LLMs (Ollama) · Docker · blue/green on Nginx · self-hosted CI runners · Playwright gates · gitleaks · MongoDB |
+| **Trial** | Draft-only multi-agent "AI employees" · official WhatsApp Cloud API (coexistence) · encrypted off-site backups with restore tests |
+| **Assess** | vLLM for higher-throughput inference · self-hosted sanctions screening · deterministic rule engines alongside LLMs |
+| **Hold** | Sending client data to paid third-party AI APIs · unofficial WhatsApp bridges · deploys without a tested rollback |
+
 ### Technical Stack
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,githubactions,aws&perline=7" alt="Linux, Ubuntu, Bash, Docker, Nginx, GitHub Actions, AWS" />
@@ -122,6 +138,11 @@ flowchart TB
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NoorSiddiquiDubai&hide_border=true&theme=transparent" alt="Contribution streak" />
 </p>
+
+### Quick Intro from the Terminal
+```bash
+curl -s https://raw.githubusercontent.com/NoorSiddiquiDubai/NoorSiddiquiDubai/main/intro.json | jq
+```
 
 ### Work With Me
 I take on a small number of fixed-scope engagements:
