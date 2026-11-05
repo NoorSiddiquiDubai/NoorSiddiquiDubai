@@ -2,7 +2,7 @@
 
 # Noor Siddiqui
 
-<a href="https://al-izn.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Founder%2C+IZN+AI+%C2%B7+Director%2C+Agro+National;DevOps+%26+Self-Hosted+AI+Infrastructure;16%2B+Years+in+B2B+Systems+%C2%B7+Dubai%2C+UAE" alt="Founder, IZN AI · Director, Agro National · DevOps & Self-Hosted AI · 16+ Years in B2B Systems" /></a>
+<a href="https://al-izn.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Founder%2C+IZN+AI+%C2%B7+Director%2C+Agro+National;DevOps+%26+Self-Hosted+AI+Infrastructure;16%2B+Years+in+B2B+Systems+%C2%B7+Dubai%2C+UAE;Building+AI+Innovation+%26+Incubation+Ecosystems" alt="Founder, IZN AI · Director, Agro National · DevOps & Self-Hosted AI · 16+ Years in B2B Systems" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooruddinsiddiqui)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@N_Siddiqui555)
@@ -22,6 +22,7 @@ I build and run self-hosted, human-in-the-loop AI systems for B2B trade, regulat
 - **10+ countries** of trade reach · **500+ verified companies** on the platform
 - **Zero paid AI APIs** — local models (Ollama) on my own servers
 - **16+ years** across company formation, tax compliance, digital marketing and B2B trade
+- **10 years** structuring CSR, FCRA and government-scheme funding, project reports and DPRs for companies and NGOs
 
 ### R&D Roadmap
 | Phase | Focus | Status |
@@ -30,6 +31,7 @@ I build and run self-hosted, human-in-the-loop AI systems for B2B trade, regulat
 | **2 · Agentic operations** | Draft-only AI employees (intake, follow-up, compliance, reporting) on local models, every action human-approved | 🔄 Building |
 | **3 · Trade engine** | Seller mandates, inventory, buyer–seller matching, Quote & Lock, document desk on letterhead | 🔄 Building |
 | **4 · Enterprise & regional adoption** | White-label Trade OS for other B2B firms; self-hosted AI adoption for SMEs, manufacturing and regional trade ecosystems | 🧭 Vision |
+| **5 · AI innovation & incubation** | Applied-AI R&D lab, automation and robotics pilots, startup incubation and industry–academia partnerships, funded through grants, CSR and investors | 🧭 Vision |
 
 ### Selected Work — Agro National Trade OS (private, in production)
 The operating system behind a Dubai fertilizer and agri-chemical trading desk.
@@ -62,6 +64,12 @@ flowchart TB
   Q -->|approved| WO
   CI[CI gate<br/>tests · Playwright · gitleaks] -. blue/green promote .-> API
 ```
+
+### Leadership — Building Ventures, Funding and Institutions
+- **Funding & grants:** ten years structuring CSR funding, FCRA-registered funding, government-scheme registrations, project reports and DPRs for companies and NGOs.
+- **Legal & institutional setup:** company formation, NGO and trust registration, tax and regulatory compliance across India and the UAE, and day-to-day government liaison.
+- **Venture building:** founded IZN AI; run Agro National's trade desk end to end — from intake and compliance to documentation and deal flow.
+- **AI capability inside organisations:** design the operating model, not just the code — written governance (a "constitution"), human-approval gates, acceptance tests on live systems, and an AI engineering team that ships through reviewed pull requests.
 
 ### Background
 - **Founder, IZN AI** ([al-izn.com](https://al-izn.com)) — private AI search, verified professional directory and AI-assisted mediation for the UAE and GCC (2025–Present)
