@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooruddinsiddiqui)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@N_Siddiqui555)
-[![Contra](https://img.shields.io/badge/Hire_on_Contra-1A1A1A?style=for-the-badge&logoColor=white)](https://contra.com/aramco_india_apwx26px)
+[![Hire me](https://img.shields.io/badge/Hire_Me-1A1A1A?style=for-the-badge&logoColor=white)](https://linktr.ee/noorsiddiqui)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/N_Siddiqui555)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/noorsiddiqui)
 [![Email](https://img.shields.io/badge/Email-hello@al--izn.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@al-izn.com)
@@ -19,8 +19,8 @@
 I lead applied-AI work end to end: architecture and live operations on infrastructure I control, the legal and regulatory frame (company formation, compliance, data governance), and the funding model (grants, CSR, government schemes and investor readiness). Nothing leaves the gate without an authenticated person approving it, and nothing is called done until it is proven on the live system.
 
 ### At a Glance
-- **1,500+ leads** handled in a CRM I designed and operate
-- **10+ countries** of trade reach · **500+ verified companies** on the platform
+- **1,500+ leads** handled in a CRM I designed and operate (CRM data, Nov 2026)
+- **10+ countries** of trade reach · **500+ verified companies** on the platform (Agro National records, Nov 2026)
 - **Zero paid AI APIs** — local models (Ollama) on my own servers
 - **16+ years** across company formation, tax compliance, digital marketing and B2B trade
 - **10 years** structuring CSR, FCRA and government-scheme funding, project reports and DPRs for companies and NGOs
@@ -184,4 +184,4 @@ Every engagement ships with a written scope, evidence for each item delivered, a
 - **Central Directory:** [linktr.ee/noorsiddiqui](https://linktr.ee/noorsiddiqui)
 - **Direct WhatsApp:** [+971 50 726 4928](https://wa.me/971507264928)
 - **Email:** [hello@al-izn.com](mailto:hello@al-izn.com)
-- **Fixed-Price Packages:** [Contra Services](https://contra.com/aramco_india_apwx26px)
+- **Fixed-Price Packages:** [linktr.ee/noorsiddiqui](https://linktr.ee/noorsiddiqui)
