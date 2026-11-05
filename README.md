@@ -59,8 +59,10 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 - **[projects](https://github.com/NoorSiddiquiDubai/projects)** — live websites and products I have built and run, with screenshots.
 
 ### Published Technical Articles
+<!-- BLOG-POST-LIST:START -->
 - **[Deterministic Multimodal Vision Auditing for FDA & UAE Regulatory Compliance](https://medium.com/@N_Siddiqui555/deterministic-multimodal-vision-auditing-for-fda-uae-regulatory-compliance-why-llm-probabilities-c04719dc3739)** — why probabilistic LLM vision fails in statutory labelling, and how hybrid deterministic rule engines remove recall risk.
 - **[Building Sovereign AI Architectures in Dubai](https://medium.com/@N_Siddiqui555/building-sovereign-ai-architectures-in-dubai-why-enterprise-ai-needs-deterministic-governance-d63b8450ec9f)** — moving beyond public API wrappers to self-hosted models, human-in-the-loop gates and verified execution on GCC soil.
+<!-- BLOG-POST-LIST:END -->
 
 ### Live Systems
 | Platform | Overview |
@@ -89,6 +91,9 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 ![mdadm](https://img.shields.io/badge/mdadm-RAID-555555?style=flat-square)
 
 ### GitHub Activity
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NoorSiddiquiDubai&hide_border=true&theme=transparent" alt="Contribution streak" />
 </p>
