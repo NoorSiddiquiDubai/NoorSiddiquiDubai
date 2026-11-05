@@ -31,7 +31,7 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 - **Delivery:** blue/green on Nginx with rollback under 5 seconds, CI on a self-hosted runner (tests, Playwright smoke, gitleaks, semgrep), an AI engineering team working through PRs and a written constitution, with acceptance tests on LIVE as the definition of done.
 
 ```mermaid
-flowchart LR
+flowchart TB
   subgraph Intake["Intake — every inquiry becomes a lead"]
     M[Mailboxes · IMAP]
     W[Website forms]
@@ -52,7 +52,7 @@ flowchart LR
   API --> AI --> Q
   Q -->|approved| E
   Q -->|approved| WO
-  CI[CI gate · tests · Playwright · gitleaks] -. blue/green promote .-> API
+  CI[CI gate<br/>tests · Playwright · gitleaks] -. blue/green promote .-> API
 ```
 
 ### Background
