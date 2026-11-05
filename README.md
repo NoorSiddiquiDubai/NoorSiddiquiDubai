@@ -30,6 +30,31 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 - **Invariants enforced in code and tests:** every inquiry becomes a lead or a quarantine record (no silent drops) · only the owner can approve or send · send window and daily caps enforced server-side · compliance flags inform, they never block · one runtime, promoted only by hand.
 - **Delivery:** blue/green on Nginx with rollback under 5 seconds, CI on a self-hosted runner (tests, Playwright smoke, gitleaks, semgrep), an AI engineering team working through PRs and a written constitution, with acceptance tests on LIVE as the definition of done.
 
+```mermaid
+flowchart LR
+  subgraph Intake["Intake — every inquiry becomes a lead"]
+    M[Mailboxes · IMAP]
+    W[Website forms]
+    WA[WhatsApp webhook]
+  end
+  subgraph Core["Trade OS core"]
+    API[Node.js API<br/>MongoDB · Redis<br/>append-only trail]
+    AI[Local LLM drafts<br/>Ollama · draft-only]
+    Q{{Owner approval queue}}
+  end
+  subgraph Out["Outbound — owner-approved only"]
+    E[Email rail<br/>primary + fallback]
+    WO[WhatsApp reply]
+  end
+  M --> API
+  W --> API
+  WA --> API
+  API --> AI --> Q
+  Q -->|approved| E
+  Q -->|approved| WO
+  CI[CI gate · tests · Playwright · gitleaks] -. blue/green promote .-> API
+```
+
 ### Background
 - **Founder, IZN AI** ([al-izn.com](https://al-izn.com)) — private AI search, verified professional directory and AI-assisted mediation for the UAE and GCC (2025–Present)
 - **Director, Agro National Chemical & Fertilizer Trading Co. LLC** ([agronational.ae](https://agronational.ae)), Dubai — GCC & Africa agri-fertilizer trade and B2B CRM automation (2023–Present)
