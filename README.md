@@ -42,6 +42,8 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 - **Agent workflows:** multi-agent intake pipelines with human-in-the-loop approvals on self-hosted models (Ollama / vLLM).
 
 ### Open Source Projects
+- **[devops-case-studies](https://github.com/NoorSiddiquiDubai/devops-case-studies)** — five sanitized production case studies (Problem → Action → Evidence → Result): self-hosted CI + Playwright gate, blue/green auto-failover, RAID 6 rescue-mode recovery, cPanel → AWS EC2 cutover, secret-scanning sweep. CI-checked.
+- **[izn-ai](https://github.com/NoorSiddiquiDubai/izn-ai)** — product overview of IZN AI, the private AI search and mediation platform I am building for the UAE & GCC (product code private).
 - **[multimodal-compliance-auditor](https://github.com/NoorSiddiquiDubai/multimodal-compliance-auditor)** — packaging & label compliance auditor for US FDA 21 CFR and UAE MoIAT (FastAPI + Vision + Docker, with tests).
 - **[sovereign-ai-agent-engine](https://github.com/NoorSiddiquiDubai/sovereign-ai-agent-engine)** — multi-agent intake engine with deterministic human-in-the-loop release gates, SHA-256 audit hashing and local Ollama orchestration.
 - **[ai-agent-working-contract](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract)** — the governance contract and review routine I give every AI coding agent ("No evidence, no done").
@@ -67,7 +69,13 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 **Backend & AI:** Python · FastAPI · Pydantic v2 · Node.js · Express · MongoDB · Redis · Ollama · Brevo
 
 ### Work With Me
-DevOps hardening, CI/CD setup, self-hosted AI deployments and B2B automation — fixed-price packages.
+I take on a small number of fixed-scope engagements:
+- **DevOps hardening & rescue** — server lockouts, SSH/firewall hardening, backups with tested restores, monitoring
+- **CI/CD & zero-downtime releases** — self-hosted runners, test gates, blue/green deploys with one-step rollback
+- **Self-hosted AI** — local LLMs (Ollama) with human-in-the-loop approvals, no data sent to third-party AI APIs
+- **B2B CRM & intake automation** — email, web-form and WhatsApp intake into one approval-driven CRM
+
+Every engagement ships with a written scope, evidence for each item delivered, and a handover — the same [working contract](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract) I hold my own systems to.
 - **Central Directory:** [linktr.ee/noorsiddiqui](https://linktr.ee/noorsiddiqui)
 - **Direct WhatsApp:** [+971 50 726 4928](https://wa.me/971507264928)
 - **Fixed-Price Packages:** [Contra Services](https://contra.com/noorsiddiqui)
