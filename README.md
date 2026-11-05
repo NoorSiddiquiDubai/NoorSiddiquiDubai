@@ -2,20 +2,21 @@
 
 # Noor Siddiqui
 
-<a href="https://al-izn.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Founder%2C+IZN+AI+%C2%B7+Director%2C+Agro+National;DevOps+%26+Self-Hosted+AI+Infrastructure;16%2B+Years+in+B2B+Systems+%C2%B7+Dubai%2C+UAE;Building+AI+Innovation+%26+Incubation+Ecosystems" alt="Founder, IZN AI · Director, Agro National · DevOps & Self-Hosted AI · 16+ Years in B2B Systems" /></a>
+<a href="https://al-izn.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+AI+Innovation+%26+Incubation+Ecosystems;Technology+%C2%B7+Legal+%C2%B7+Funding+%E2%80%94+under+one+roof;Founder%2C+IZN+AI+%C2%B7+Director%2C+Agro+National;16%2B+Years+%C2%B7+Dubai%2C+UAE" alt="AI innovation & incubation leader · Technology, legal and funding · Founder, IZN AI · Director, Agro National" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooruddinsiddiqui)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@N_Siddiqui555)
-[![Contra](https://img.shields.io/badge/Hire_on_Contra-1A1A1A?style=for-the-badge&logoColor=white)](https://contra.com/noorsiddiqui)
+[![Contra](https://img.shields.io/badge/Hire_on_Contra-1A1A1A?style=for-the-badge&logoColor=white)](https://contra.com/aramco_india_apwx26px)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/N_Siddiqui555)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/noorsiddiqui)
+[![Email](https://img.shields.io/badge/Email-hello@al--izn.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@al-izn.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971507264928)
 
 </div>
 
-> **16+ years in B2B systems.** I run a production Trade OS for a Dubai trading company — blue/green releases, CI-gated merges and human-approved outbound — on self-hosted AI and infrastructure I operate myself.
+> **AI innovation leader where technology, legal frameworks and funding meet.** I build and run self-hosted AI systems in production, set up the companies, compliance and governance around them, and structure the funding that keeps them going — 16+ years across B2B trade, tax and corporate law, and digital infrastructure.
 
-I build and run self-hosted, human-in-the-loop AI systems for B2B trade, regulatory compliance and enterprise workflows. Nothing leaves the gate without an authenticated person approving it, and nothing is called done until it is proven on the live system.
+I lead applied-AI work end to end: architecture and live operations on infrastructure I control, the legal and regulatory frame (company formation, compliance, data governance), and the funding model (grants, CSR, government schemes and investor readiness). Nothing leaves the gate without an authenticated person approving it, and nothing is called done until it is proven on the live system.
 
 ### At a Glance
 - **1,500+ leads** handled in a CRM I designed and operate
@@ -23,6 +24,12 @@ I build and run self-hosted, human-in-the-loop AI systems for B2B trade, regulat
 - **Zero paid AI APIs** — local models (Ollama) on my own servers
 - **16+ years** across company formation, tax compliance, digital marketing and B2B trade
 - **10 years** structuring CSR, FCRA and government-scheme funding, project reports and DPRs for companies and NGOs
+
+### Leadership — Building Ventures, Funding and Institutions
+- **Funding & grants:** ten years structuring CSR funding, FCRA-registered funding, government-scheme registrations, project reports and DPRs for companies and NGOs.
+- **Legal & institutional setup:** company formation, NGO and trust registration, tax and regulatory compliance across India and the UAE, and day-to-day government liaison.
+- **Venture building:** founded IZN AI; run Agro National's trade desk end to end — from intake and compliance to documentation and deal flow.
+- **AI capability inside organisations:** design the operating model, not just the code — written governance (a "constitution"), human-approval gates, acceptance tests on live systems, and an AI engineering team that ships through reviewed pull requests.
 
 ### R&D Roadmap
 | Phase | Focus | Status |
@@ -65,32 +72,6 @@ flowchart TB
   CI[CI gate<br/>tests · Playwright · gitleaks] -. blue/green promote .-> API
 ```
 
-### Leadership — Building Ventures, Funding and Institutions
-- **Funding & grants:** ten years structuring CSR funding, FCRA-registered funding, government-scheme registrations, project reports and DPRs for companies and NGOs.
-- **Legal & institutional setup:** company formation, NGO and trust registration, tax and regulatory compliance across India and the UAE, and day-to-day government liaison.
-- **Venture building:** founded IZN AI; run Agro National's trade desk end to end — from intake and compliance to documentation and deal flow.
-- **AI capability inside organisations:** design the operating model, not just the code — written governance (a "constitution"), human-approval gates, acceptance tests on live systems, and an AI engineering team that ships through reviewed pull requests.
-
-### Background
-- **Founder, IZN AI** ([al-izn.com](https://al-izn.com)) — private AI search, verified professional directory and AI-assisted mediation for the UAE and GCC (2025–Present)
-- **Director, Agro National Chemical & Fertilizer Trading Co. LLC** ([agronational.ae](https://agronational.ae)), Dubai — GCC & Africa agri-fertilizer trade and B2B CRM automation (2023–Present)
-- **Director, Aramco India** ([aramcoindia.com](https://aramcoindia.com)), Dubai — IT, SEO and digital marketing: setting up and promoting companies online (2010–Present)
-- **Executive Director, Delhi branch, Roshan Accountax Pvt. Ltd.** ([roshantax.com](https://roshantax.com)) — company formation, taxation, government liaison, NGO / FCRA / CSR and project reports (2010–2020)
-- **Author, eTaxDial** ([etaxdial.com](https://etaxdial.com)) — authority blog on taxation, legal and company setup across India, the UAE and international markets (2013–Present)
-
-### DevOps & Reliability — What I Run in Production
-- **CI/CD:** GitHub Actions on a self-hosted runner under a dedicated non-root user; every pull request runs syntax checks, unit fixtures and a Playwright end-to-end suite against staging before it can merge.
-- **Zero-downtime releases:** blue/green behind Nginx, owner-only promote, health checks and rollback under 5 seconds.
-- **Secret hygiene:** gitleaks on every push, credential files kept out of Git, leaked keys revoked rather than just deleted.
-- **Incident response:** recovered a locked-out bare-metal server through rescue mode — assembled the RAID6 array, traced the root cause from sshd logs and restored every service on a clean reboot.
-- **Cloud migration:** moved a SaaS dashboard from shared hosting to AWS EC2 behind Caddy, with an Elastic IP, low-TTL DNS cutover and a fallback path during propagation.
-- **Hardening:** key-only SSH, fail2ban, least-privilege service users, systemd-managed services, encrypted off-site backups taken before every change.
-
-### What I Build
-- **Trade & B2B CRM:** unified intake across email, web forms and WhatsApp; deduplication; SLA tracking; approval queues; compliance verification.
-- **Regulatory compliance engines:** deterministic artwork and label validation for US FDA (21 CFR Part 101) and UAE MoIAT (GSO 9:2013).
-- **Agent workflows:** multi-agent intake pipelines with human-in-the-loop approvals on self-hosted models (Ollama / vLLM).
-
 ### Open Source Projects
 - **[devops-case-studies](https://github.com/NoorSiddiquiDubai/devops-case-studies)** — five sanitized production case studies (Problem → Action → Evidence → Result): self-hosted CI + Playwright gate, blue/green auto-failover, RAID 6 rescue-mode recovery, cPanel → AWS EC2 cutover, secret-scanning sweep. CI-checked.
 - **[izn-ai](https://github.com/NoorSiddiquiDubai/izn-ai)** — product overview of IZN AI, the private AI search and mediation platform I am building for the UAE & GCC (product code private).
@@ -105,7 +86,53 @@ flowchart TB
 - [Building Sovereign AI Architectures in Dubai: Why Enterprise AI Needs Deterministic Governance](https://medium.com/@N_Siddiqui555/building-sovereign-ai-architectures-in-dubai-why-enterprise-ai-needs-deterministic-governance-d63b8450ec9f?source=rss-d70a114bf344------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Live Systems
+<details>
+<summary><b>Career background</b></summary>
+
+- **Founder, IZN AI** ([al-izn.com](https://al-izn.com)) — private AI search, verified professional directory and AI-assisted mediation for the UAE and GCC (2025–Present)
+- **Director, Agro National Chemical & Fertilizer Trading Co. LLC** ([agronational.ae](https://agronational.ae)), Dubai — GCC & Africa agri-fertilizer trade and B2B CRM automation (2023–Present)
+- **Director, Aramco India** ([aramcoindia.com](https://aramcoindia.com)), Dubai — IT, SEO and digital marketing: setting up and promoting companies online (2010–Present)
+- **Executive Director, Delhi branch, Roshan Accountax Pvt. Ltd.** ([roshantax.com](https://roshantax.com)) — company formation, taxation, government liaison, NGO / FCRA / CSR and project reports (2010–2020)
+- **Author, eTaxDial** ([etaxdial.com](https://etaxdial.com)) — authority blog on taxation, legal and company setup across India, the UAE and international markets (2013–Present)
+
+</details>
+
+<details>
+<summary><b>DevOps & reliability — what I run in production</b></summary>
+
+- **CI/CD:** GitHub Actions on a self-hosted runner under a dedicated non-root user; every pull request runs syntax checks, unit fixtures and a Playwright end-to-end suite against staging before it can merge.
+- **Zero-downtime releases:** blue/green behind Nginx, owner-only promote, health checks and rollback under 5 seconds.
+- **Secret hygiene:** gitleaks on every push, credential files kept out of Git, leaked keys revoked rather than just deleted.
+- **Incident response:** recovered a locked-out bare-metal server through rescue mode — assembled the RAID6 array, traced the root cause from sshd logs and restored every service on a clean reboot.
+- **Cloud migration:** moved a SaaS dashboard from shared hosting to AWS EC2 behind Caddy, with an Elastic IP, low-TTL DNS cutover and a fallback path during propagation.
+- **Hardening:** key-only SSH, fail2ban, least-privilege service users, systemd-managed services, encrypted off-site backups taken before every change.
+
+</details>
+
+<details>
+<summary><b>What I build</b></summary>
+
+- **Trade & B2B CRM:** unified intake across email, web forms and WhatsApp; deduplication; SLA tracking; approval queues; compliance verification.
+- **Regulatory compliance engines:** deterministic artwork and label validation for US FDA (21 CFR Part 101) and UAE MoIAT (GSO 9:2013).
+- **Agent workflows:** multi-agent intake pipelines with human-in-the-loop approvals on self-hosted models (Ollama / vLLM).
+
+</details>
+
+<details>
+<summary><b>Technology radar</b></summary>
+
+| Ring | What I use or study |
+|---|---|
+| **Adopt** | Self-hosted LLMs (Ollama) · Docker · blue/green on Nginx · self-hosted CI runners · Playwright gates · gitleaks · MongoDB |
+| **Trial** | Draft-only multi-agent "AI employees" · official WhatsApp Cloud API (coexistence) · encrypted off-site backups with restore tests |
+| **Assess** | vLLM for higher-throughput inference · self-hosted sanctions screening · deterministic rule engines alongside LLMs |
+| **Hold** | Sending client data to paid third-party AI APIs · unofficial WhatsApp bridges · deploys without a tested rollback |
+
+</details>
+
+<details>
+<summary><b>Live systems</b></summary>
+
 | Platform | Overview |
 |---|---|
 | [al-izn.com](https://al-izn.com) | IZN AI — private AI search, verified professional directory and mediation platform for the UAE & GCC |
@@ -115,13 +142,7 @@ flowchart TB
 | [aramcoindia.com](https://aramcoindia.com) | Aramco India — company setup, IT, SEO and digital marketing services |
 | [vsjksb.world](https://vsjksb.world) | Community development, vocational training and welfare initiative portal |
 
-### Technology Radar
-| Ring | What I use or study |
-|---|---|
-| **Adopt** | Self-hosted LLMs (Ollama) · Docker · blue/green on Nginx · self-hosted CI runners · Playwright gates · gitleaks · MongoDB |
-| **Trial** | Draft-only multi-agent "AI employees" · official WhatsApp Cloud API (coexistence) · encrypted off-site backups with restore tests |
-| **Assess** | vLLM for higher-throughput inference · self-hosted sanctions screening · deterministic rule engines alongside LLMs |
-| **Hold** | Sending client data to paid third-party AI APIs · unofficial WhatsApp bridges · deploys without a tested rollback |
+</details>
 
 ### Technical Stack
 <p>
@@ -162,4 +183,5 @@ I take on a small number of fixed-scope engagements:
 Every engagement ships with a written scope, evidence for each item delivered, and a handover — the same [working contract](https://github.com/NoorSiddiquiDubai/ai-agent-working-contract) I hold my own systems to.
 - **Central Directory:** [linktr.ee/noorsiddiqui](https://linktr.ee/noorsiddiqui)
 - **Direct WhatsApp:** [+971 50 726 4928](https://wa.me/971507264928)
-- **Fixed-Price Packages:** [Contra Services](https://contra.com/noorsiddiqui)
+- **Email:** [hello@al-izn.com](mailto:hello@al-izn.com)
+- **Fixed-Price Packages:** [Contra Services](https://contra.com/aramco_india_apwx26px)
