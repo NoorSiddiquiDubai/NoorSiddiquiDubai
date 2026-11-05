@@ -1,8 +1,17 @@
+<div align="center">
+
 # Noor Siddiqui
 
-**Dubai, UAE · Founder, IZN AI & Director, Agro National · DevOps & Self-Hosted AI Infrastructure · 16+ Years in B2B Systems**
+<a href="https://al-izn.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Founder%2C+IZN+AI+%C2%B7+Director%2C+Agro+National;DevOps+%26+Self-Hosted+AI+Infrastructure;16%2B+Years+in+B2B+Systems+%C2%B7+Dubai%2C+UAE" alt="Founder, IZN AI · Director, Agro National · DevOps & Self-Hosted AI · 16+ Years in B2B Systems" /></a>
 
-[Linktree Hub](https://linktr.ee/noorsiddiqui) · [Medium](https://medium.com/@N_Siddiqui555) · [Contra](https://contra.com/noorsiddiqui) · [LinkedIn](https://www.linkedin.com/in/nooruddinsiddiqui) · [GitHub](https://github.com/NoorSiddiquiDubai) · [X](https://x.com/N_Siddiqui555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nooruddinsiddiqui)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@N_Siddiqui555)
+[![Contra](https://img.shields.io/badge/Hire_on_Contra-1A1A1A?style=for-the-badge&logoColor=white)](https://contra.com/noorsiddiqui)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/N_Siddiqui555)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/noorsiddiqui)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971507264928)
+
+</div>
 
 > **16+ years in B2B systems.** I run a production Trade OS for a Dubai trading company — blue/green releases, CI-gated merges and human-approved outbound — on self-hosted AI and infrastructure I operate myself.
 
@@ -64,9 +73,29 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 | [vsjksb.world](https://vsjksb.world) | Community development, vocational training and welfare initiative portal |
 
 ### Technical Stack
-**Infra & DevOps:** Linux (Ubuntu) · Docker · systemd · Nginx · Caddy · GitHub Actions (self-hosted runners) · AWS EC2 · Hetzner bare metal · mdadm RAID · fail2ban · gitleaks · semgrep · Playwright
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,githubactions,aws&perline=7" alt="Linux, Ubuntu, Bash, Docker, Nginx, GitHub Actions, AWS" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,redis&perline=7" alt="Python, FastAPI, Node.js, Express, MongoDB, Redis" />
+</p>
 
-**Backend & AI:** Python · FastAPI · Pydantic v2 · Node.js · Express · MongoDB · Redis · Ollama · Brevo
+![Ollama](https://img.shields.io/badge/Ollama-local_LLMs-000000?style=flat-square)
+![Caddy](https://img.shields.io/badge/Caddy-auto_HTTPS-1F88C0?style=flat-square)
+![Hetzner](https://img.shields.io/badge/Hetzner-bare_metal-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![gitleaks](https://img.shields.io/badge/gitleaks-secret_scanning-blueviolet?style=flat-square)
+![semgrep](https://img.shields.io/badge/semgrep-SAST-orange?style=flat-square)
+![fail2ban](https://img.shields.io/badge/fail2ban-hardening-555555?style=flat-square)
+![mdadm](https://img.shields.io/badge/mdadm-RAID-555555?style=flat-square)
+
+### GitHub Activity
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoorSiddiquiDubai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorSiddiquiDubai&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NoorSiddiquiDubai&hide_border=true&theme=transparent" alt="Contribution streak" />
+</p>
 
 ### Work With Me
 I take on a small number of fixed-scope engagements:
