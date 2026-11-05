@@ -90,10 +90,6 @@ The operating system behind a Dubai fertilizer and agri-chemical trading desk.
 
 ### GitHub Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoorSiddiquiDubai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorSiddiquiDubai&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=NoorSiddiquiDubai&hide_border=true&theme=transparent" alt="Contribution streak" />
 </p>
 
