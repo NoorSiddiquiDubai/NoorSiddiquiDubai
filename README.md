@@ -72,6 +72,9 @@ flowchart TB
   CI[CI gate<br/>tests · Playwright · gitleaks] -. blue/green promote .-> API
 ```
 
+<p align="center"><img src="./assets/trade-os-dashboard.png" width="760" alt="Agro National Trade OS owner dashboard (cropped; no client data)" /></p>
+
+
 ### Open Source Projects
 - **[devops-case-studies](https://github.com/NoorSiddiquiDubai/devops-case-studies)** — five sanitized production case studies (Problem → Action → Evidence → Result): self-hosted CI + Playwright gate, blue/green auto-failover, RAID 6 rescue-mode recovery, cPanel → AWS EC2 cutover, secret-scanning sweep. CI-checked.
 - **[izn-ai](https://github.com/NoorSiddiquiDubai/izn-ai)** — product overview of IZN AI, the private AI search and mediation platform I am building for the UAE & GCC (product code private).
