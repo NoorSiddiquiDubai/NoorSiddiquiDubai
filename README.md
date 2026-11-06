@@ -85,7 +85,7 @@ flowchart TB
 
 ### Published Technical Articles
 <!-- BLOG-POST-LIST:START -->
-- [Deterministic Multimodal Vision Auditing for FDA &amp; UAE Regulatory Compliance: Why LLM Probabilities…](https://medium.com/@N_Siddiqui555/deterministic-multimodal-vision-auditing-for-fda-uae-regulatory-compliance-why-llm-probabilities-c04719dc3739?source=rss-d70a114bf344------2)
+- [Deterministic Multimodal Vision Auditing for FDA & UAE Regulatory Compliance: Why LLM Probabilities…](https://medium.com/@N_Siddiqui555/deterministic-multimodal-vision-auditing-for-fda-uae-regulatory-compliance-why-llm-probabilities-c04719dc3739?source=rss-d70a114bf344------2)
 - [Building Sovereign AI Architectures in Dubai: Why Enterprise AI Needs Deterministic Governance](https://medium.com/@N_Siddiqui555/building-sovereign-ai-architectures-in-dubai-why-enterprise-ai-needs-deterministic-governance-d63b8450ec9f?source=rss-d70a114bf344------2)
 <!-- BLOG-POST-LIST:END -->
 
